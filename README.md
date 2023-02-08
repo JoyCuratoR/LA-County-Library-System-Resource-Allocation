@@ -1,2 +1,2 @@
 # LA-County-Library-System-Resource-Allocation
-A resource allocation analysis of Los Angeles County's Library System
+Here are the [project requirements](https://tori-ann.notion.site/Library-Resource-Allocation-Optimization-Work-In-Progress-a81ed799155c46fca469dac2d94a21fe) for this project.
