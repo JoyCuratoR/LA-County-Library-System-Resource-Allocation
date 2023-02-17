@@ -1,0 +1,27 @@
+location,In_Person_Or_Online,highest_expenses,compare_result
+"LA COUNTY LIBRARY",Online,Print,"No Match"
+"LONG BEACH PUBLIC LIBRARY",Online,Print,"No Match"
+"PASADENA PUBLIC LIBRARY",In-Person,Print,Match
+"GLENDALE LIBRARY, ARTS & CULTURE",Online,Print,"No Match"
+"PALOS VERDES LIBRARY DISTRICT",In-Person,Electronic,"No Match"
+"BURBANK PUBLIC LIBRARY",In-Person,Electronic,"No Match"
+"WHITTIER PUBLIC LIBRARY",Online,Electronic,Match
+"SANTA CLARITA PUBLIC LIBRARY",In-Person,Electronic,"No Match"
+"REDONDO BEACH PUBLIC LIBRARY",In-Person,Electronic,"No Match"
+"ALTADENA LIBRARY DISTRICT",Online,Print,"No Match"
+"CERRITOS PUBLIC LIBRARY",Online,Electronic,Match
+"ARCADIA PUBLIC LIBRARY",In-Person,Print,Match
+"ALHAMBRA CIVIC CENTER LIBRARY",In-Person,Print,Match
+"INGLEWOOD PUBLIC LIBRARY",Online,Electronic,Match
+"CITY OF COMMERCE PUBLIC LIBRARY",Online,Electronic,Match
+"MONROVIA PUBLIC LIBRARY",In-Person,Print,Match
+"EL SEGUNDO PUBLIC LIBRARY",Online,Print,"No Match"
+"MONTEREY PARK BRUGGEMEYER LIBRARY",In-Person,Print,Match
+"CALABASAS CITY LIBRARY",Online,Electronic,Match
+"GLENDORA LIBRARY & CULTURAL CENTER",Online,Electronic,Match
+"SANTA FE SPRINGS CITY LIBRARY",Online,Print,"No Match"
+"SOUTH PASADENA PUBLIC LIBRARY",In-Person,Print,Match
+"PALMDALE CITY LIBRARY",In-Person,Electronic,"No Match"
+"CROWELL PUBLIC LIBRARY",Online,Print,"No Match"
+"SIERRA MADRE PUBLIC LIBRARY",In-Person,Print,Match
+"IRWINDALE PUBLIC LIBRARY",In-Person,Print,Match

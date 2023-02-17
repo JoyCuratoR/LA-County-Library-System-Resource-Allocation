@@ -1,0 +1,28 @@
+location,most_popular_program,highest_num_programs_offered,compare_result
+"LA COUNTY LIBRARY",Children,Children,Match
+"PASADENA PUBLIC LIBRARY",Children,Children,Match
+"LOS ANGELES PUBLIC LIBRARY",Adult,Adult,Match
+"SANTA CLARITA PUBLIC LIBRARY",Children,Children,Match
+"MONTEREY PARK BRUGGEMEYER LIBRARY",Children,Adult,"No Match"
+"GLENDORA LIBRARY & CULTURAL CENTER",Children,Children,Match
+"SIERRA MADRE PUBLIC LIBRARY",Children,Children,Match
+"ALTADENA LIBRARY DISTRICT",Children,Adult,"No Match"
+"CALABASAS CITY LIBRARY",Children,Children,Match
+"ALHAMBRA CIVIC CENTER LIBRARY","Young Adult",Adult,"No Match"
+"GLENDALE LIBRARY, ARTS & CULTURE",Children,Adult,"No Match"
+"AZUSA CITY LIBRARY",Children,Children,Match
+"LONG BEACH PUBLIC LIBRARY",Adult,Children,"No Match"
+"WHITTIER PUBLIC LIBRARY",Adult,Adult,Match
+"PALMDALE CITY LIBRARY",Children,Adult,"No Match"
+"SOUTH PASADENA PUBLIC LIBRARY",Children,Children,Match
+"DOWNEY CITY LIBRARY",Children,Children,Match
+"CITY OF COMMERCE PUBLIC LIBRARY","Young Adult",Adult,"No Match"
+"SANTA FE SPRINGS CITY LIBRARY",Children,Adult,"No Match"
+"COVINA PUBLIC LIBRARY",Adult,Adult,Match
+"MONROVIA PUBLIC LIBRARY",Adult,Adult,Match
+"PALOS VERDES LIBRARY DISTRICT",Adult,Adult,Match
+"BEVERLY HILLS PUBLIC LIBRARY",Adult,Adult,Match
+"ARCADIA PUBLIC LIBRARY",Adult,Adult,Match
+"EL SEGUNDO PUBLIC LIBRARY",Adult,Adult,Match
+"CERRITOS PUBLIC LIBRARY",Children,Children,Match
+"IRWINDALE PUBLIC LIBRARY",Children,Adult,"No Match"
